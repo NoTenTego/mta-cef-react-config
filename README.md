@@ -1,70 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projekt "mta-cef-react-config" stanowi kompleksowe rozwiązanie dla programistów zainteresowanych tworzeniem wielu skryptów w środowisku Multi Theft Auto: San Andreas (MTA:SA), wykorzystując przy tym interfejs CEF (Chromium Embedded Framework) oraz technologię React.
 
-## Available Scripts
+W kontekście szeroko pojętej rozrywki komputerowej, MTA:SA jest wyjątkową modyfikacją gry Grand Theft Auto: San Andreas, która otwiera możliwość rozbudowywania gry o nowe funkcje, tryby wieloosobowe oraz skrypty napisane w języku Lua. W tej otwartej przestrzeni deweloperskiej, interfejs CEF odgrywa kluczową rolę, umożliwiając integrowanie zaawansowanych interfejsów użytkownika opartych na standardach webowych, takich jak HTML, CSS i JavaScript, bezpośrednio w grze.
 
-In the project directory, you can run:
+Z drugiej strony, React, będący jedną z najpopularniejszych bibliotek JavaScript do budowania interfejsów użytkownika, oferuje zaawansowane narzędzia i podejście oparte na komponentach, które umożliwiają tworzenie złożonych i interaktywnych interfejsów aplikacji.
 
-### `npm start`
+Projekt "mta-cef-react-config" wychodzi naprzeciw potrzebom deweloperów, dostarczając kompleksowej konfiguracji środowiska pracy. Jest to zestaw narzędzi, ustawień oraz bibliotek, które są zoptymalizowane do współpracy z MTA:SA oraz interfejsem CEF, pozwalając na wydajne i efektywne tworzenie aplikacji w tym środowisku.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+W skład projektu mogą wchodzić m.in. skonfigurowane narzędzia do budowania projektów, takie jak webpack czy Babel, gotowe szablony i komponenty React, a także narzędzia do testowania, debugowania i zarządzania kodem.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Dzięki temu projektowi, programiści mogą skupić się na tworzeniu innowacyjnych skryptów i aplikacji dla MTA:SA, wykorzystując pełen potencjał interfejsu CEF i Reacta, bez konieczności poświęcania czasu na konfigurowanie środowiska pracy od podstaw.
