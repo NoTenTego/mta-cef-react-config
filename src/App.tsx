@@ -4,19 +4,12 @@ import { useMta } from './hooks/useMta';
 import { appStore } from './store/AppStore';
 import './App.css';
 
-/**
- * Main App component with MTA CEF integration
- * Uses MobX for state management and observer pattern
- */
 const App: React.FC = observer(() => {
-  // Setup MTA event handlers
   useMta({
     setVisible: (visible: boolean) => appStore.setVisible(visible),
     updatePlayerData: (data: any) => appStore.setPlayerData(data),
-    // Add more event handlers here as needed
   });
 
-  // Don't render if UI is not visible
   if (!appStore.isVisible) {
     return null;
   }
